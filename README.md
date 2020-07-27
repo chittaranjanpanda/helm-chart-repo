@@ -10,5 +10,5 @@ My Helm Chart Repository
 ## Application List
 
 
-- *[guestbook application](https://github.com/chittaranjanpanda/helm-charts/tree/master/guestbook)* - A Helm chart for kubernetes. Example application create while learning helm.
+- *[guestbook application](https://github.com/chittaranjanpanda/helm-charts/tree/master/guestbook)* - A Helm chart for kubernetes. Example application created while learning helm.
 
