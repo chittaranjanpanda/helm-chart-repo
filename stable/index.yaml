@@ -3,7 +3,7 @@ entries:
   guestbook:
   - apiVersion: v2
     appVersion: v4
-    created: "2020-07-27T10:28:00.0593492Z"
+    created: "2020-07-27T10:41:18.9672461Z"
     dependencies:
     - name: redis
       repository: https://charts.bitnami.com/bitnami
@@ -15,4 +15,4 @@ entries:
     urls:
     - guestbook-1.0.0.tgz
     version: 1.0.0
-generated: "2020-07-27T10:28:00.0552889Z"
+generated: "2020-07-27T10:41:18.9635729Z"
