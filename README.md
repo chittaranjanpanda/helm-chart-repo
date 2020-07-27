@@ -1,4 +1,4 @@
-# helm-chart-repository
+# *[helm-chart-repository](https://chittaranjanpanda.github.io/helm-chart-repo)*
 My Helm Chart Repository
 
 ## Add this to your helm repo
